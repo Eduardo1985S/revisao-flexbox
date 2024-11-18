@@ -1,4 +1,4 @@
-# Exemplo de Página Usando Flexbox
+# Revisão Flexbox
 
 Este repositório contém um exemplo de página web que utiliza Flexbox para criar um layout moderno e responsivo.
 
